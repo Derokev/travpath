@@ -1,5 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome to my app project
 
+I decided to do a app that not only would help myself learn but also help at my current job. The TravPath app 
+is basically going to be a todo app with added functionality. 
+
+## TravPath
+TravPath short for Travel Path is a work routine in which a ranking employee walks the business property looking for any opportunities, risks, etc to Take appropriate actions to better serve guest, customers, etc.
 You can use the [editor on GitHub](https://github.com/Derokev/travpath/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
